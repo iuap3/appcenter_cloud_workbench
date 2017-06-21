@@ -3,6 +3,10 @@
 
 * [产品介绍](articles/workbench/1-/README.md)
     * [产品概述](articles/workbench/1-/product_intro.md)
+    * [产品优势](articles/workbench/1-/advantages.md)
+    * [应用场景](articles/workbench/1-/scenarios.md)
+    * [基础架构](articles/workbench/1-/structure.md)
+    * [产品历程](articles/workbench/1-/history.md)
 * [个人设置](articles/workbench/2-/settings.md)
 * [管理中心](articles/workbench/3-/manage_center.md)
     * [概述](articles/workbench/3-/summary.md)
