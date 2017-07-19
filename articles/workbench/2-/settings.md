@@ -18,7 +18,7 @@
 
 ![](/articles/workbench/2-/image/image4.png)
 
-修改用户信息
+图：修改用户信息
 
 单击【账户安全】进行安全资料的编辑。
 
