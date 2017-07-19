@@ -19,7 +19,6 @@
 单击右上角编辑按钮，进行组织机构的编辑，填写相应内容后点击〖保存〗即可。
 
 ![](/articles/workbench/3-/image/image9.png)
-
  
 删除
 
