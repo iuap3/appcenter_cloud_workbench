@@ -16,7 +16,7 @@
     * [管理中心概述](articles/workbench/3-/summary.md)
     * [组织管理](articles/workbench/3-/orgs.md)
     * [人员信息](articles/workbench/3-/profile.md)
-    * [自定义档案](articles/workbench/3-/summary.md)
+    * [自定义档案](articles/workbench/3-/files.md)
     * [公司设置](articles/workbench/3-/company_settings.md)
     * [权限管理](articles/workbench/3-/permissions.md)
     * [功能管理](articles/workbench/3-/functions.md)
