@@ -1,0 +1,32 @@
+{ 
+ "title": "云工作台", 
+ "desc": "云工作台提供面向企业互联网的应用集成、应用组装、统一访问入口和角色场景化的工作桌面的开发和集成
+
+框架。云工作台基于iuap Portal中间件，使用轻量级的Widget来组装业务应用，支持云计算和多租户架构，并在此基
+
+础上集成小部件管理、小应用管理、角色管理、授权管理等丰富的管理功能，提供菜单配置、角色工作台设计等应用组
+
+装功能，提供菜单、应用中心、管理中心等应用导航功能。", 
+ "list": [ 
+ { 
+ "title": "账号设置", 
+ "link": "#/md-build/appcenter_cloud_workbench/articles/workbench/2-/settings.md", 
+ "desc": "介绍了账号信息的设置流程" 
+ }, 
+ { 
+ "title": "组织管理", 
+ "link": "#/md-build/appcenter_cloud_workbench/articles/workbench/3-/orgs.md", 
+ "desc": "组织管理主要由组织机构、职级、职务、职位构成" 
+ }, 
+ { 
+ "title": "权限管理", 
+ "link": "#/md-build/appcenter_cloud_workbench/articles/workbench/3-/permissions.md", 
+ "desc": "介绍了权限管理的功能和访问控制" 
+ }, 
+ { 
+ "title": "功能管理", 
+ "link": "#/md-build/appcenter_cloud_workbench/articles/workbench/3-/functions.md", 
+ "desc": "功能管理包括小应用管理和菜单设置两个应用" 
+ } 
+ ] 
+ } 
